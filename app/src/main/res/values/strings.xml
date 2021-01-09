@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image_drowing_project</string>
+    <string name="hello1">Hello1</string>
+    <string name="hello1_small">hello1</string>
+    <string name="Tell_your_friend">Tell your friend</string>
+    <string name="Payment">Payment</string>
+    <string name="Promotions">Promotions</string>
+    <string name="Settings">Settings</string>
+    <string name="Your_Favorites">Your Favorites</string>
+    <string name="Logout">Logout</string>
+</resources>
